@@ -105,22 +105,44 @@ Model performance can be evaluated using accuracy, recall, and ROC-AUC metrics.
 
 ---
 
+Here’s your **correctly formatted and polished README section**, with proper markdown syntax for **bold text**, **code blocks**, **headings**, and **links** — ready to paste into your GitHub README.md file 👇
+
+---
+
+````markdown
 ## 🚀 How to Run the Project
 
-Clone the repository:
-   ```bash
-   git clone https://github.com/Ismat-stack/telecom_customer_churn.git
-   cd telecom_customer_churn
+**Clone the repository:**
+```bash
+git clone https://github.com/Ismat-stack/telecom_customer_churn.git
+cd telecom_customer_churn
+````
 
-----
+**Install required dependencies:**
 
-🧾 License
+```bash
+pip install -r requirements.txt
+```
 
-This project is licensed under the MIT License — free to use, modify, and share with attribution.
+**Run the Jupyter Notebook:**
 
-----
+```bash
+jupyter notebook Telecom_Customer_Churn.ipynb
+```
 
-👩‍💻 Author
+---
 
-Ismat Khan
-📧 [ismatafrozkhan121@gmail.com]
+## 🧾 License
+
+This project is licensed under the **MIT License** — free to use, modify, and share with proper attribution.
+
+---
+
+## 👩‍💻 Author
+
+**Ismat Khan**
+📧 **Email:** [ismatafrozkhan121@gmail.com](mailto:ismatafrozkhan121@gmail.com)
+💻 **GitHub:** [Ismat-stack](https://github.com/Ismat-stack)
+🔗 *Open to collaborations on data analytics, visualization, and machine learning projects.*
+
+```
