@@ -107,7 +107,20 @@ Model performance can be evaluated using accuracy, recall, and ROC-AUC metrics.
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Ismat-stack/telecom_customer_churn.git
    cd telecom_customer_churn
+
+----
+
+🧾 License
+
+This project is licensed under the MIT License — free to use, modify, and share with attribution.
+
+----
+
+👩‍💻 Author
+
+Ismat Khan
+📧 [ismatafrozkhan121@gmail.com]
