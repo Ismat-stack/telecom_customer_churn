@@ -105,10 +105,6 @@ Model performance can be evaluated using accuracy, recall, and ROC-AUC metrics.
 
 ---
 
-Here’s your **correctly formatted and polished README section**, with proper markdown syntax for **bold text**, **code blocks**, **headings**, and **links** — ready to paste into your GitHub README.md file 👇
-
----
-
 ````markdown
 ## 🚀 How to Run the Project
 
