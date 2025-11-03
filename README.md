@@ -137,8 +137,12 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 ## 👩‍💻 Author
 
 **Ismat Khan**
+
 📧 **Email:** [ismatafrozkhan121@gmail.com](mailto:ismatafrozkhan121@gmail.com)
+
 💻 **GitHub:** [Ismat-stack](https://github.com/Ismat-stack)
+
 🔗 *Open to collaborations on data analytics, visualization, and machine learning projects.*
+
 
 ```
