@@ -110,7 +110,7 @@ Model performance can be evaluated using accuracy, recall, and ROC-AUC metrics.
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/Ismat-stack/telecom_customer_churn.git
+git clone https://github.com/Ismat-stack/data-cleaning-python.git
 cd telecom_customer_churn
 ````
 
